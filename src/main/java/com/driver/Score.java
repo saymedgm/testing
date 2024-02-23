@@ -5,7 +5,7 @@ public class Score {
     private int score;
 
     // comment
-
+    // second comment
     public Score(String playerName, int score) {
         this.playerName = playerName;
         this.score = score;
