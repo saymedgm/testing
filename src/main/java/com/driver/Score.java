@@ -4,6 +4,8 @@ public class Score {
     private String playerName;
     private int score;
 
+    // comment
+
     public Score(String playerName, int score) {
         this.playerName = playerName;
         this.score = score;
